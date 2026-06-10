@@ -1,4 +1,4 @@
-# Agente de RRHH sobre Looker 🧑‍💼🔭
+# Agente de RRHH sobre Looker
 
 **Un agente conversacional de Recursos Humanos, en español, desplegado sobre la capa semántica de Looker (Google Cloud core) — creado y administrado íntegramente desde Google Colab, sin usar la consola de GCP.**
 

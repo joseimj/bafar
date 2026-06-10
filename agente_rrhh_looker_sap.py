@@ -52,7 +52,7 @@ Qué hace este script (pensado para correr en Google Colab):
   • El explore con hrp1000/hrp1001 ya unido en un modelo LookML.
 ═══════════════════════════════════════════════════════════════════════════════
 """
-
+!pip install -q --upgrade google-cloud-geminidataanalytics looker-sdk
 import argparse
 import os
 import subprocess
